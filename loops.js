@@ -26,7 +26,7 @@ do {
   
 }
   
-while ( incrementVariable() < num);
+while ( incrementVariable() < num)
 
 
 
